@@ -8,11 +8,6 @@ public class HelloWorld {
         System.out.println("GitHub should git out");
         System.out.println("Bitfucket");
         System.out.println("Let's program in R, this is too hard");
-
         int gitTheFucketOuttaHere = 1;
-
-        System.out.println("This is going to mess up!!");
-
-
     }
 }
