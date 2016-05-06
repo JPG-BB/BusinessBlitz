@@ -4,5 +4,7 @@
 public class HelloPain {
     public static void main(String[] args) {
         System.out.println("Hello pain my old friend");
+        System.out.println("weak!!!");
+
     }
 }
