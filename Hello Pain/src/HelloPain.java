@@ -6,6 +6,5 @@ public class HelloPain {
         System.out.println("Hello pain my old friend");
         System.out.println("weak!!!");
         System.out.println("I want to sleep");
-
     }
 }
