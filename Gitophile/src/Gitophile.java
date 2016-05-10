@@ -6,7 +6,11 @@ public class Gitophile {
 
         System.out.println("Hello, gitophiles");
         System.out.println("DTF");
+<<<<<<< HEAD
         System.out.println("poopymcpoopypants");
+=======
+        System.out.println("Merge error");
+>>>>>>> origin/master
 
     }
 }
